@@ -10,7 +10,7 @@
 "draft":{"round":1,"pick":4,"tid":27,"originalTid":27,"year":2003},
 "college":"Georgia Tech",
 "ratings":[{"hgt":90,"stre":86,"spd":54,"jmp":67,"endu":78,"ins":74,"dnk":78,"ft":76,"fg":85,"tp":71,"blk":71,"stl":34,"drb":38,"pss":38,"reb":61,"pot":72,"skills":[]}],
-"injury":{"type":"Blood clot","gamesRemaining":150}},
+"injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":5,
 "name":"Kevin Love",
